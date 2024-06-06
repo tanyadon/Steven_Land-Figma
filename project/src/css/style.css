@@ -1,0 +1,1446 @@
+.text1 {
+  font-family: 'Lato', sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 16px;
+  line-height: 19px;
+  letter-spacing: 0.04em;
+  color: #FF7614;
+  text-transform: uppercase;
+}
+.text2 {
+  font-family: 'Lato', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  color: #FFFFFF;
+}
+.box {
+  width: 187px;
+  height: 86px;
+  padding-top: 12px;
+  padding-left: 15px;
+  background: rgba(239, 239, 239, 0.62);
+}
+.box .strelka {
+  width: 6px;
+  height: 12px;
+  background: url(../img/Block_7/strelka.png) no-repeat center;
+  background-size: cover;
+  border: none;
+  margin-top: 25px;
+  margin-right: 19px;
+}
+.box .text {
+  font-family: 'Lato', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  color: #000000;
+  text-align: left;
+  margin-bottom: 7px;
+}
+.box .stoimosty {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  color: #FF7614;
+  text-align: left;
+}
+.Shipping_Info {
+  padding-top: 16px;
+  padding-bottom: 16px;
+  text-align: center;
+  background: #000000;
+}
+.Shipping_Info p {
+  display: inline-block;
+  font-family: 'Lato', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #FFFFFF;
+}
+.Shipping_Info .close {
+  display: inline-block;
+  width: 8.71px;
+  height: 8.71px;
+  background: url(../img/Shipping_Info/close.png) no-repeat center;
+  background-size: cover;
+  margin-right: 0;
+  margin-top: 4.65px;
+}
+.Header {
+  padding-top: 17px;
+  padding-bottom: 17px;
+  text-align: center;
+  background: #FFFFFF;
+}
+.Header .poisk {
+  width: 20.8px;
+  height: 20.8px;
+  border: none;
+  background: url(../img/Header/poisk.png) no-repeat center;
+  background-size: cover;
+  margin-right: 530.2px;
+  margin-top: 25px;
+}
+.Header .Mobil_menu-open {
+  display: none;
+}
+.Header .user {
+  width: 18.8px;
+  height: 20.24px;
+  border: none;
+  background: url(../img/Header/user.png) no-repeat center;
+  background-size: cover;
+  margin-right: 47.2px;
+  margin-top: 25.4px;
+}
+.Header .korsina {
+  width: 18.8px;
+  height: 20.24px;
+  border: none;
+  background: url(../img/Header/korsina.png) no-repeat center;
+  background-size: cover;
+  margin-top: 25.4px;
+}
+.Categories_list {
+  text-align: center;
+  background: #F5F5F5;
+  padding-top: 18px;
+  padding-bottom: 18px;
+}
+.Categories_list a {
+  padding: 1px 15px;
+  font-family: 'Lato', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  color: #000000;
+  text-transform: uppercase;
+  border-right: 1px solid #C4C4C4;
+}
+.Categories_list .punkt_1 {
+  color: #FF7614;
+}
+.Categories_list .punkt_2:hover {
+  padding-top: 18px;
+  padding-bottom: 18px;
+  background: #fff;
+  text-decoration-line: underline;
+}
+.Block_1 {
+  text-align: center;
+  padding-top: 113px;
+  padding-bottom: 161px;
+}
+.Block_1 .text1 {
+  margin-bottom: 24px;
+}
+.Block_1 h1 {
+  font-family: 'Arvo', serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 79px;
+  color: #FFFFFF;
+  text-transform: uppercase;
+  margin-bottom: 40px;
+}
+.Block_1 .text2 {
+  margin-bottom: 48px;
+}
+.Block_1 .btn {
+  display: block;
+  padding: 17px 56px 18px 56px;
+  background: #FFFFFF;
+  font-family: 'Lato', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000000;
+  text-transform: uppercase;
+}
+.Block_2 {
+  padding-top: 56px;
+  padding-bottom: 56px;
+}
+.Block_2 .slayder {
+  display: flex;
+  flex-wrap: wrap;
+  width: 120%;
+  margin-left: -90px;
+}
+.Block_2 .slayder .slayd {
+  height: 100%;
+  padding-top: 316px;
+  padding-bottom: 39px;
+  margin-right: 16px;
+}
+.Block_2 .slayder .slayd .nazvanie_1 {
+  font-family: 'Lato', sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 14px;
+  line-height: 17px;
+  letter-spacing: 0.04em;
+  color: #FF7614;
+  text-transform: uppercase;
+  margin-bottom: 16px;
+}
+.Block_2 .slayder .slayd .nazvanie_2 {
+  font-family: 'Arvo', serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 42px;
+  color: #FFFFFF;
+  text-transform: uppercase;
+}
+.Block_2 .slayder .slayd_1 {
+  background: url(../img/Block_2/foto_1.png) no-repeat center;
+  background-size: cover;
+}
+.Block_2 .slayder .slayd_2 {
+  background: url(../img/Block_2/foto_2.png) no-repeat center;
+  background-size: cover;
+}
+.Block_2 .slayder .slayd_3 {
+  background: url(../img/Block_2/foto_3.png) no-repeat center;
+  background-size: cover;
+}
+.Block_2 .slayder .slayd_4 {
+  background: url(../img/Block_2/foto_4.png) no-repeat center;
+  background-size: cover;
+}
+.Block_2 .slayder .slayd_5 {
+  background: url(../img/Block_2/foto_5.png) no-repeat center;
+  background-size: cover;
+}
+.Block_2 .slayder .slayd_6 {
+  background: url(../img/Block_2/foto_6.png) no-repeat center;
+  background-size: cover;
+}
+.Block_2 .left_1 {
+  position: absolute;
+  z-index: 9999;
+  left: 50px;
+  margin-top: 247px;
+  width: 48px;
+  height: 48px;
+  background: url(../img/Block_2/Left.png) no-repeat center;
+  background-size: cover;
+  border-radius: 50%;
+  border: none;
+}
+.Block_2 .right_1 {
+  position: absolute;
+  z-index: 9999;
+  right: 50px;
+  margin-top: 247px;
+  width: 48px;
+  height: 48px;
+  background: url(../img/Block_2/Right.png) no-repeat center;
+  background-size: cover;
+  border-radius: 50%;
+  border: none;
+}
+.Block_3 {
+  background: #F5F5F5;
+  padding-top: 56px;
+  padding-bottom: 56px;
+  text-align: center;
+}
+.Block_3 .zagolovok_1 {
+  font-family: 'Lato', sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  letter-spacing: 0.04em;
+  color: #FF7614;
+  text-transform: uppercase;
+  margin-bottom: 16px;
+}
+.Block_3 h2 {
+  font-family: 'Arvo', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 49px;
+  color: #000000;
+}
+.Block_3 .odejda {
+  padding-top: 64px;
+  margin-bottom: 64px;
+  text-align: center;
+  width: 100%;
+  min-height: 166px;
+}
+.Block_3 .odejda .nazvanie {
+  font-family: 'Arvo', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 30px;
+  color: #FF7614;
+  text-transform: uppercase;
+  margin-top: 32px;
+}
+.Block_3 .odejda .foto_3 {
+  padding-top: 30.83px;
+  padding-bottom: 30.83px;
+}
+.Block_3 .odejda .foto_4 {
+  padding-top: 21.9px;
+  padding-bottom: 21.9px;
+}
+.Block_3 .text {
+  font-family: 'Lato', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  color: #000000;
+}
+.Block_4 {
+  background: url(../img/Block_4/fon.png) no-repeat center;
+  background-size: cover;
+  padding-top: 184px;
+  padding-bottom: 167px;
+  text-align: center;
+}
+.Block_4 .text1 {
+  margin-bottom: 16px;
+}
+.Block_4 h2 {
+  font-family: 'Arvo', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 69px;
+  color: #FFFFFF;
+  text-transform: uppercase;
+  margin-bottom: 40px;
+}
+.Block_4 .text2 {
+  margin-bottom: 55.51px;
+}
+.Block_4 .btn {
+  display: block;
+  padding: 17.16px 56px 18.33px 56px;
+  background: none;
+  border: 1px solid #FFFFFF;
+  font-family: 'Lato', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  color: #FFFFFF;
+  text-transform: uppercase;
+}
+.Block_5_1,
+.Block_5_2 {
+  padding-top: 64px;
+  background: #F5F5F5;
+  text-align: center;
+}
+.Block_5_1 h2,
+.Block_5_2 h2 {
+  font-family: 'Arvo', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 40px;
+  color: #000000;
+  text-transform: uppercase;
+  margin-bottom: 64px;
+}
+.Block_5_1 .odejda,
+.Block_5_2 .odejda {
+  display: flex;
+  flex-wrap: wrap;
+  width: 110%;
+  margin-left: -50px;
+}
+.Block_5_1 .odejda .karta,
+.Block_5_2 .odejda .karta {
+  display: inline-block;
+  width: 300px;
+  background: #FFFFFF;
+  background-size: cover;
+  padding-bottom: 24px;
+  margin-right: 16px;
+}
+.Block_5_1 .odejda .karta .razmer,
+.Block_5_2 .odejda .karta .razmer {
+  display: inline-block;
+  width: 90px;
+  height: 30px;
+  padding-top: 8px;
+  float: left;
+  background: #EFEFEF;
+}
+.Block_5_1 .odejda .karta .razmer .size,
+.Block_5_2 .odejda .karta .razmer .size {
+  display: inline-block;
+  font-family: 'Lato', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 14px;
+  color: #666666;
+  text-align: center;
+}
+.Block_5_1 .odejda .karta .nalichie,
+.Block_5_2 .odejda .karta .nalichie {
+  display: inline-block;
+  width: 90px;
+  height: 30px;
+  padding-top: 8px;
+  float: right;
+  background: #FF7614;
+}
+.Block_5_1 .odejda .karta img,
+.Block_5_2 .odejda .karta img {
+  margin-top: -10px;
+  margin-bottom: 16px;
+}
+.Block_5_1 .odejda .karta .opisanie,
+.Block_5_2 .odejda .karta .opisanie {
+  font-family: 'Lato', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 26px;
+  color: #000000;
+  text-align: left;
+  margin-left: 20px;
+  margin-bottom: 16px;
+}
+.Block_5_1 .odejda .karta .cena_1,
+.Block_5_2 .odejda .karta .cena_1 {
+  display: inline-block;
+  font-family: 'Lato', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+  color: #FF7614;
+  text-align: left;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.Block_5_1 .odejda .karta .cena_2,
+.Block_5_2 .odejda .karta .cena_2 {
+  display: inline-block;
+  font-family: 'Lato', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: left;
+  text-decoration-line: line-through;
+  color: #666666;
+}
+.Block_5_1 {
+  padding-bottom: 64px;
+}
+.Block_5_2 {
+  padding-bottom: 72px;
+}
+.Block_6 {
+  padding-top: 136px;
+  padding-bottom: 136px;
+  text-align: center;
+}
+.Block_6 .text1 {
+  margin-bottom: 16px;
+}
+.Block_6 h2 {
+  font-family: 'Arvo', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 59px;
+  color: #FFFFFF;
+  text-transform: uppercase;
+  margin-bottom: 48px;
+}
+.Block_6 button {
+  display: block;
+  padding: 17px 56px 18px 56px;
+  background: none;
+  border: 1px solid #FFFFFF;
+  font-family: 'Lato', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  color: #FFFFFF;
+  text-transform: uppercase;
+}
+.Block_6 button img {
+  width: 19.25px;
+  height: 19.25px;
+  margin-left: 13.38px;
+  margin-top: -0.62px;
+}
+.Block_7 {
+  padding-top: 72px;
+  text-align: center;
+  background: #FFFFFF;
+}
+.Block_7 .text1 {
+  margin-bottom: 16px;
+}
+.Block_7 h2 {
+  font-family: 'Arvo', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 49px;
+  color: #000000;
+  text-transform: uppercase;
+  margin-bottom: 26px;
+}
+.Block_7 .kostumi .kostum_1 {
+  width: 364px;
+  height: 484px;
+  background: url(../img/Block_7/foto_1.png) no-repeat center;
+  background-size: cover;
+  margin-right: 131px;
+}
+.Block_7 .kostumi .kostum_1 .box {
+  position: absolute;
+  top: 200px;
+  right: -20px;
+}
+.Block_7 .kostumi .kostum_2 {
+  width: 362px;
+  height: 484px;
+  background: url(../img/Block_7/foto_2.png) no-repeat center;
+  background-size: cover;
+  margin-right: 38px;
+}
+.Block_7 .kostumi .kostum_2 .box {
+  position: absolute;
+  top: 129px;
+  right: -19px;
+}
+.Block_7 .kostumi .kostum_3 {
+  width: 363px;
+  height: 484px;
+  background: url(../img/Block_7/foto_3.png) no-repeat center;
+  background-size: cover;
+}
+.Block_7 .kostumi .kostum_3 .box {
+  position: absolute;
+  top: 237px;
+  right: 14px;
+}
+.Block_7 .kostumi .kostum_4 {
+  width: 364px;
+  height: 484px;
+  background: url(../img/Block_7/foto_4.png) no-repeat center;
+  background-size: cover;
+  margin-right: 131px;
+}
+.Block_7 .kostumi .kostum_4 .box {
+  position: absolute;
+  top: 200px;
+  right: -20px;
+}
+.Block_7 .kostumi .kostum_5 {
+  width: 358px;
+  height: 480px;
+  background: url(../img/Block_7/foto_5.png) no-repeat center;
+  background-size: cover;
+  margin-right: 38px;
+}
+.Block_7 .kostumi .kostum_5 .box {
+  position: absolute;
+  top: 129px;
+  right: -19px;
+}
+.Block_7 .kostumi .kostum_6 {
+  width: 363px;
+  height: 484px;
+  background: url(../img/Block_7/foto_6.png) no-repeat center;
+  background-size: cover;
+}
+.Block_7 .kostumi .kostum_6 .box {
+  position: absolute;
+  top: 237px;
+  right: 14px;
+}
+.Block_7 .left_2 {
+  display: block;
+  position: absolute;
+  z-index: 9999;
+  margin-top: 127px;
+  left: 50px;
+  width: 48px;
+  height: 48px;
+  background: url(../img/Block_7/Left.png) no-repeat center;
+  background-size: cover;
+  border: none;
+  border-radius: 50px;
+}
+.Block_7 .right_2 {
+  display: block;
+  position: absolute;
+  z-index: 9999;
+  margin-top: 127px;
+  right: 50px;
+  width: 48px;
+  height: 48px;
+  background: url(../img/Block_7/Right.png) no-repeat center;
+  background-size: cover;
+  border: none;
+  border-radius: 50px;
+}
+.Block_8 {
+  background: #F5F5F5;
+  padding-top: 96px;
+  padding-bottom: 96px;
+  text-align: center;
+}
+.Block_8 .Logotip,
+.Block_8 .Logotip_4 {
+  vertical-align: bottom;
+  margin-right: auto;
+  padding-bottom: 0;
+}
+.Block_8 .Logotip img,
+.Block_8 .Logotip_4 img {
+  vertical-align: bottom;
+  margin-bottom: 24px;
+}
+.Block_8 .Logotip .text1,
+.Block_8 .Logotip_4 .text1 {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 26px;
+  text-transform: uppercase;
+  margin-bottom: 16px;
+}
+.Block_8 .Logotip .text2,
+.Block_8 .Logotip_4 .text2 {
+  font-size: 18px;
+  line-height: 26px;
+  color: #000000;
+}
+.Block_9 {
+  padding-top: 56px;
+  padding-bottom: 80px;
+  text-align: center;
+  background: #FFFFFF;
+}
+.Block_9 .text1 {
+  margin-bottom: 16px;
+}
+.Block_9 h2 {
+  font-family: 'Arvo';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 49px;
+  color: #000000;
+  margin-bottom: 56px;
+}
+.Block_9 img {
+  margin-right: auto;
+}
+.Block_10 {
+  padding-top: 72px;
+  padding-bottom: 100px;
+  background: url(../img/Block_10/fon.png) no-repeat center;
+  background-size: cover;
+}
+.Block_10 .text1 {
+  margin-bottom: 24px;
+}
+.Block_10 h2 {
+  font-family: 'Arvo', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 54px;
+  color: #FFFFFF;
+}
+.Block_10 .forma {
+  display: inline-block;
+  float: right;
+  margin-top: 71px;
+}
+.Block_10 .forma input {
+  width: 332px;
+  height: 52px;
+  padding: 16px 177px 17px 48px;
+  font-family: 'Lato', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  color: #666666;
+}
+.Block_10 .forma button {
+  display: inline-block;
+  width: 171px;
+  height: 52px;
+  padding: 17px 48px 18px 48px;
+  background: #FF7614;
+  border: none;
+  font-family: 'Lato', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  color: #FFFFFF;
+  text-transform: uppercase;
+  margin-left: 0;
+}
+.Block_11 {
+  background: #F5F5F5;
+  padding-top: 57px;
+  padding-bottom: 48px;
+}
+.Block_11 .Logotipi {
+  display: inline-block;
+  margin-right: auto;
+}
+.Block_11 .Logotipi .ikonka_1 {
+  margin-top: 29px;
+  margin-left: 3.38px;
+  margin-right: 20.38px;
+}
+.Block_11 .Logotipi .ikonka_2 {
+  margin-top: 29.38px;
+  margin-right: 20.38px;
+}
+.Block_11 .Logotipi .ikonka_3 {
+  margin-top: 34.82px;
+}
+.Block_11 .informaciya {
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 7px;
+  margin-right: auto;
+}
+.Block_11 .informaciya .zaglavie {
+  font-family: 'Lato', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  color: #000000;
+  text-transform: uppercase;
+  margin-bottom: 24px;
+}
+.Block_11 .informaciya .punkt {
+  font-family: 'Lato', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 19px;
+  color: #000000;
+  list-style: none;
+  text-transform: uppercase;
+  margin-bottom: 16px;
+}
+.Block_11 .text2 {
+  font-size: 16px;
+  line-height: 19px;
+  color: #000000;
+  margin-top: 94px;
+  margin-left: 3px;
+}
+.Block_13 .zagolovok_1 {
+  font-family: 'Arvo', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 40px;
+  color: #000000;
+  margin-bottom: 32px;
+}
+.Block_13 p {
+  font-size: 19px;
+  line-height: 32px;
+  color: #000000;
+  margin-bottom: 46px;
+}
+.Block_13 ul {
+  display: inline-block;
+  list-style: none;
+  vertical-align: top;
+  margin-bottom: 121px;
+}
+.Block_13 ul li {
+  font-family: 'Lato', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 38px;
+  color: #000000;
+  margin-bottom: 24px;
+}
+.Block_13 ul li:before {
+  content: '';
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  margin-right: 24px;
+  background: url(../img/Block_13/marker.png) no-repeat center;
+  background-size: 100%;
+  vertical-align: middle;
+}
+.Block_13 ul .dva,
+.Block_13 ul .chetire,
+.Block_13 ul .shesty {
+  display: none;
+}
+.Block_13 .kolonka_2 {
+  margin-left: 222px;
+}
+.Block_13 .zagolovok_2 {
+  font-family: 'Arvo', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 40px;
+  color: #000000;
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 48px;
+}
+.Block_13 .box_1 {
+  display: block;
+}
+.Block_13 .box_1 .chislo {
+  font-family: 'Lato', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 48px;
+  color: #000000;
+  margin-right: 16px;
+  margin-bottom: 8px;
+}
+.Block_13 .box_1 .zvezda {
+  margin-right: 3px;
+  margin-top: 13px;
+}
+.Block_13 .box_1 .podpisy {
+  font-family: 'Lato', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 20px;
+  color: #000000;
+}
+.Block_13 button {
+  float: right;
+  padding: 12px 40px 11px 40px;
+  background: #FF7614;
+  border: none;
+  font-family: 'Lato', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  color: #FFFFFF;
+  margin-top: 13px;
+}
+.Block_15 .slayd_1 {
+  padding-top: 32px;
+}
+.Block_15 .slayd_1 .foto_1 {
+  margin-top: 8px;
+  margin-right: 45px;
+}
+.Block_15 .slayd_1 .text1 {
+  margin-bottom: 16px;
+}
+.Block_15 .slayd_1 h2 {
+  font-family: 'Arvo', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 49px;
+  color: #000000;
+}
+.Block_16 {
+  padding-top: 88px;
+  padding-bottom: 82px;
+  background: #F5F5F5;
+  text-align: center;
+}
+.Block_16 .odejda {
+  width: 100%;
+  min-height: 166px;
+  margin-right: auto;
+}
+.Block_16 .odejda .nazvanie {
+  font-family: 'Arvo', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 30px;
+  color: #FF7614;
+  text-transform: uppercase;
+  margin-top: 32px;
+}
+.Block_16 .odejda .foto_2 {
+  padding-top: 30.83px;
+  padding-bottom: 30.83px;
+}
+.Block_16 .odejda .foto_4 {
+  padding-top: 20.9px;
+  padding-bottom: 21.9px;
+}
+.Block_16 .odejda .foto_5 {
+  padding-top: 11.39px;
+  padding-bottom: 11.39px;
+}
+.Mobil_menu {
+  display: none;
+}
+@media (max-width: 767px) {
+  .Shipping_Info {
+    display: none;
+  }
+  .Header {
+    padding-top: 7px;
+    padding-bottom: 8px;
+  }
+  .Header .poisk {
+    display: none;
+  }
+  .Header .Mobil_menu-open {
+    display: block;
+    width: 18px;
+    height: 14px;
+    border: none;
+    background: url(../img/Header/mob_menu.png) no-repeat center;
+    background-size: cover;
+    margin-top: 16px;
+    margin-right: 89px;
+  }
+  .Header img {
+    width: 134px;
+    height: 45px;
+  }
+  .Header .user {
+    width: 16.32px;
+    height: 16.32px;
+    margin-left: 53.48px;
+    margin-right: 26.51px;
+    margin-top: 14.84px;
+  }
+  .Header .korsina {
+    width: 24px;
+    height: 24px;
+    margin-top: 11px;
+  }
+  .Categories_list {
+    display: none;
+  }
+  .Block_1 {
+    padding-top: 104px;
+    padding-bottom: 147px;
+  }
+  .Block_1 .text1 {
+    margin-bottom: 16px;
+  }
+  .Block_1 h1 {
+    font-size: 48px;
+    line-height: 59px;
+  }
+  .Block_1 .text2 {
+    font-size: 18px;
+    margin-bottom: 40px;
+  }
+  .Block_2 {
+    padding-top: 32px;
+    padding-bottom: 25px;
+  }
+  .Block_2 .left_1,
+  .Block_2 .right_1 {
+    display: none;
+  }
+  .Block_2 .slayder {
+    width: 100%;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+  .Block_2 .slayder .slayd {
+    width: 174px;
+    padding-top: 163px;
+    padding-bottom: 24px;
+    margin-right: 7px;
+    margin-bottom: 7px;
+  }
+  .Block_2 .slayder .slayd .nazvanie_1 {
+    font-size: 10px;
+    line-height: 12px;
+    margin-bottom: 8px;
+  }
+  .Block_2 .slayder .slayd .nazvanie_2 {
+    font-size: 16px;
+    line-height: 20px;
+  }
+  .Block_3 {
+    padding-top: 40px;
+    padding-bottom: 55px;
+  }
+  .Block_3 .odejda {
+    margin-bottom: 48px;
+    min-height: 123px;
+  }
+  .Block_3 .odejda .nazvanie {
+    font-size: 21px;
+    line-height: 26px;
+    margin-top: 17px;
+  }
+  .Block_3 .odejda .foto_3 {
+    padding-top: 31.71px;
+    padding-bottom: 23.71px;
+  }
+  .Block_3 .odejda .foto_4 {
+    padding-top: 24.84px;
+    padding-bottom: 16.84px;
+  }
+  .Block_4 {
+    padding-top: 80px;
+    padding-bottom: 115px;
+  }
+  .Block_4 h2 {
+    font-size: 40px;
+    line-height: 49px;
+    margin-bottom: 32px;
+  }
+  .Block_4 .text2 {
+    font-size: 18px;
+    margin-bottom: 40px;
+  }
+  .Block_4 .btn {
+    padding: 17px 56px 18px 56px;
+  }
+  .Block_5_1,
+  .Block_5_2 {
+    padding-top: 40px;
+  }
+  .Block_5_1 .odejda .karta,
+  .Block_5_2 .odejda .karta {
+    text-align: center;
+    width: 210px;
+    padding-bottom: 16px;
+    margin-right: 65px;
+    margin-bottom: 15px;
+  }
+  .Block_5_1 .odejda .razmer,
+  .Block_5_2 .odejda .razmer {
+    padding: 3px 8px 3px 8px;
+    text-align: center;
+    margin-right: 0;
+    float: left;
+  }
+  .Block_5_1 .odejda .razmer .size,
+  .Block_5_2 .odejda .razmer .size {
+    font-size: 18px;
+    line-height: 10px;
+  }
+  .Block_5_1 .odejda .nalichie,
+  .Block_5_2 .odejda .nalichie {
+    display: inline-block;
+    float: left;
+    margin-left: 0;
+    padding: 3px 8px 3px 8px;
+  }
+  .Block_5_1 .odejda img,
+  .Block_5_2 .odejda img {
+    width: 116px;
+    height: 154px;
+    float: center;
+  }
+  .Block_5_1 .odejda .opisanie,
+  .Block_5_2 .odejda .opisanie {
+    font-size: 18px;
+    line-height: 22px;
+    margin-top: 12px;
+    margin-bottom: 8px;
+  }
+  .Block_5_1 .odejda .cena_1,
+  .Block_5_2 .odejda .cena_1 {
+    display: inline-block;
+    font-size: 18px;
+    line-height: 10px;
+    float: left;
+    margin-right: 8px;
+  }
+  .Block_5_1 .odejda .cena_2,
+  .Block_5_2 .odejda .cena_2 {
+    display: inline-block;
+    float: 10px;
+    line-height: 12px;
+  }
+  .Block_5_1 {
+    padding-bottom: 40px;
+  }
+  .Block_5_1 .odejda {
+    width: 100%;
+    margin-left: 5px;
+  }
+  .Block_5_2 {
+    padding-bottom: 32px;
+  }
+  .Block_5_2 h2 {
+    margin-bottom: 40px;
+  }
+  .Block_5_2 .odejda {
+    width: 120%;
+    margin-left: 0;
+  }
+  .Block_6 {
+    padding-top: 124px;
+    padding-bottom: 125px;
+  }
+  .Block_6 h2 {
+    font-size: 40px;
+    line-height: 49px;
+    margin-bottom: 32px;
+  }
+  .Block_7 h2 {
+    margin-bottom: 13px;
+  }
+  .Block_7 .kostumi {
+    width: 355pxs;
+  }
+  .Block_7 .kostumi .kostum_1,
+  .Block_7 .kostumi .kostum_2,
+  .Block_7 .kostumi .kostum_3 {
+    display: block;
+    width: 355px;
+    height: 472px;
+  }
+  .Block_7 .kostumi .kostum_1,
+  .Block_7 .kostumi .kostum_4 {
+    margin-right: 0;
+  }
+  .Block_7 .kostumi .kostum_1 .box,
+  .Block_7 .kostumi .kostum_4 .box {
+    top: 250px;
+    right: 180px;
+  }
+  .Block_7 .kostumi .kostum_2,
+  .Block_7 .kostumi .kostum_5 {
+    margin-right: 0;
+  }
+  .Block_7 .kostumi .kostum_2 .box,
+  .Block_7 .kostumi .kostum_5 .box {
+    top: 100px;
+    right: 150px;
+  }
+  .Block_7 .kostumi .kostum_3,
+  .Block_7 .kostumi .kostum_6 {
+    margin-right: 0;
+  }
+  .Block_7 .kostumi .kostum_3 .box,
+  .Block_7 .kostumi .kostum_6 .box {
+    top: 250px;
+    right: 180px;
+  }
+  .Block_7 .left_2 {
+    margin-top: 211px;
+    left: 10px;
+  }
+  .Block_7 .right_2 {
+    margin-top: 211px;
+    right: 10px;
+  }
+  .Block_8 {
+    background: #FFFFFF;
+    padding-top: 56px;
+    padding-bottom: 59px;
+  }
+  .Block_8 .Logotip {
+    margin-bottom: 64px;
+  }
+  .Block_8 .Logotip_4 {
+    margin-bottom: 0;
+  }
+  .Block_9 {
+    padding-top: 32px;
+    padding-bottom: 21px;
+  }
+  .Block_9 h2 {
+    font-size: 28px;
+    line-height: 35px;
+    margin-bottom: 32px;
+  }
+  .Block_9 img {
+    width: 172px;
+    height: 172px;
+    margin-bottom: 11px;
+    margin-right: 11px;
+    vertical-align: center;
+  }
+  .Block_10 {
+    padding-top: 64px;
+    padding-bottom: 64px;
+    text-align: center;
+  }
+  .Block_10 .text1 {
+    text-align: left;
+  }
+  .Block_10 h2 {
+    font-size: 28px;
+    line-height: 36px;
+    text-align: left;
+  }
+  .Block_10 .forma {
+    display: block;
+    margin-top: 40px;
+    float: center;
+  }
+  .Block_10 .forma input {
+    width: 355px;
+    padding: 16px 200px 17px 48px;
+    margin-bottom: 10px;
+  }
+  .Block_10 .forma button {
+    display: block;
+    width: 355px;
+    padding: 17px 140px 18px 140px;
+  }
+  .Block_11 {
+    padding-top: 33px;
+    padding-bottom: 130px;
+    text-align: center;
+  }
+  .Block_11 .Logotipi {
+    display: block;
+    margin-right: 0;
+    margin-bottom: 16px;
+  }
+  .Block_11 .Logotipi .logotip {
+    width: 220px;
+    height: 74px;
+  }
+  .Block_11 .Logotipi .Logotip_1 {
+    margin-left: 0;
+  }
+  .Block_11 .informaciya {
+    display: block;
+    margin-top: 40px;
+    text-align: left;
+  }
+  .Block_11 .text2 {
+    font-size: 14px;
+    line-height: 17px;
+    margin-top: 32px;
+    margin-left: 0;
+  }
+  .Block_13 .zagolovok_1 {
+    margin-bottom: 24px;
+  }
+  .Block_13 p {
+    margin-bottom: 24px;
+  }
+  .Block_13 ul {
+    margin-left: -40px;
+    margin-right: 0;
+    margin-bottom: 0;
+  }
+  .Block_13 ul li {
+    margin-bottom: 16px;
+  }
+  .Block_13 ul .dva,
+  .Block_13 ul .chetire,
+  .Block_13 ul .shesty {
+    display: block;
+  }
+  .Block_13 ul .vosemy,
+  .Block_13 ul .devyaty,
+  .Block_13 ul .desyaty {
+    display: none;
+  }
+  .Block_13 .kolonka_2 {
+    margin-left: -40px;
+  }
+  .Block_13 .zagolovok_2 {
+    margin-bottom: 32px;
+  }
+  .Block_13 .box_1 {
+    text-align: center;
+    float: center;
+  }
+  .Block_13 button {
+    float: center;
+  }
+  .Block_16 {
+    padding-top: 56px;
+    padding-bottom: 16px;
+  }
+  .Block_16 .odejda {
+    min-height: 123px;
+    margin-bottom: 40px;
+  }
+  .Block_16 .odejda .nazvanie {
+    font-size: 21px;
+    line-height: 26px;
+    margin-top: 17px;
+  }
+  .Mobil_menu {
+    display: none;
+    position: absolute;
+    left: 0;
+    top: 60px;
+    bottom: 0;
+    right: 0;
+    width: 375px;
+    height: 902px;
+    background: #F5F5F5;
+    padding-top: 29px;
+    padding-bottom: 123px;
+  }
+  .Mobil_menu .btn {
+    position: absolute;
+    left: 10.64px;
+    top: -45.64px;
+    width: 19px;
+    height: 25px;
+    border: none;
+    background: url(../img/Header/mob_menu_exit.png) no-repeat center;
+    background-size: cover;
+  }
+  .Mobil_menu .poisk {
+    width: 32px;
+    height: 32px;
+    border: none;
+    background: url(../img/Header/poisk.png) no-repeat center;
+    background-size: cover;
+    margin-left: 16.4px;
+    margin-top: 1.4px;
+    margin-bottom: 27px;
+  }
+  .Mobil_menu input {
+    background: none;
+    width: 294px;
+    border: none;
+    text-transform: uppercase;
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #666666;
+  }
+  .Mobil_menu .punkt {
+    width: 375px;
+    padding: 24px 10px 24px 19px;
+    text-align: left;
+    background: #F5F5F5;
+    border: none;
+    border-top: 1px solid #FFFFFF;
+    border-bottom: 1px solid #FFFFFF;
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-transform: uppercase;
+    color: #000000;
+    margin-bottom: 0;
+  }
+  .Mobil_menu .punkt img {
+    float: right;
+    margin-top: 6px;
+  }
+  .Mobil_menu .punkt_1 {
+    color: #FF7614;
+  }
+  .Mobil_menu .Podmenu {
+    display: none;
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    width: 375px;
+    height: 902px;
+    text-align: left;
+    background: #FFFFFF;
+  }
+  .Mobil_menu .Podmenu-exit {
+    width: 375px;
+    padding: 26px 190px 26px 19px;
+    text-align: left;
+    background: #F5F5F5;
+    border: none;
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 25px;
+    color: #000000;
+    text-transform: uppercase;
+  }
+  .Mobil_menu .Podmenu-exit img {
+    float: left;
+    margin-top: 7px;
+    margin-right: 12px;
+  }
+  .Mobil_menu .Podmenu .spisok {
+    padding-top: 32px;
+    padding-left: 10px;
+  }
+  .Mobil_menu .Podmenu .spisok .zagolovok {
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+  }
+  .Mobil_menu .Podmenu .spisok ul {
+    margin-top: 32px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    border-top: 1px solid #C4C4C4;
+    text-transform: uppercase;
+    padding-left: 0;
+  }
+  .Mobil_menu .Podmenu .spisok ul .kategoriya {
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+    text-transform: uppercase;
+    margin-bottom: 24px;
+  }
+  .Mobil_menu .Podmenu .spisok ul li {
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+    text-transform: uppercase;
+    list-style-type: none;
+    margin-bottom: 16px;
+  }
+}
